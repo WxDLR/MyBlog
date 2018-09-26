@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+</head>
+<body>
+<form method="post" action="{% url 'blog:register' %}" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input name="username" type="text" placeholder="请输入姓名">
+    <input name="email" type="email" placeholder="请输入邮箱">
+    <input name="password" type="password" placeholder="请输入密码">
+    <input name="repeatpwd" type="password" placeholder="请继续输入密码">
+    <input name="icon" type="file" >
+    <input type="submit" value="注册">
+</form>
+</body>
+</html>
