@@ -10,10 +10,10 @@ from rest_framework.parsers import JSONParser
 from rest_framework.renderers import JSONRenderer
 from rest_framework.views import APIView
 from rest_framework import generics
-from rest_framework import mixins
+from rest_framework import viewsets
 
 
-from app.models import Blog_User
+from app.models import Blog_User, Blog, BlogSerializer
 from app.serializers.serializer import Blog_UserSerializer
 
 
@@ -50,11 +50,11 @@ def index(request):
 def mine(request):
     return None
 
-class JsonResponse(HttpResponse):
-    def __init__(self, data, **kwargs):
-        content = JSONRenderer().render(data)
-        kwargs['content_type'] = 'application/json'
-        super(JsonResponse, self).__init__(content, **kwargs)
+# class JsonResponse(HttpResponse):
+#     def __init__(self, data, **kwargs):
+#         content = JSONRenderer().render(data)
+#         kwargs['content_type'] = 'application/json'
+#         super(JsonResponse, self).__init__(content, **kwargs)
 
 # @csrf_exempt
 # def blog_user_list(request):
@@ -133,7 +133,14 @@ class Blog_User_List(generics.ListCreateAPIView):
     queryset = Blog_User.objects.all()
     serializer_class = Blog_UserSerializer
 
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
 
 class Blog_User_Detail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Blog_User.objects.all()
     serializer_class = Blog_UserSerializer
+
+class BlogViews(generics.ListCreateAPIView):
+    queryset = Blog.objects.all()
+    serializer_class = BlogSerializer

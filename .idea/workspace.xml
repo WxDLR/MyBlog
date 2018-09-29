@@ -1,7 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15de8c5c-7118-4df0-8535-fa1c4c990193" name="Default Changelist" comment="" />
+    <list default="true" id="15de8c5c-7118-4df0-8535-fa1c4c990193" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MyBlog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyBlog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/chardetect" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/django-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/django-admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/easy_install-3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/pip3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/pygmentize" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/bin/pygmentize" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/bin/pyjwt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/Django-2.1.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/Django-2.1.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/PyJWT-1.6.4.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/Pygments-2.2.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/Pygments-2.2.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi-2018.8.24.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/djangorestframework_jwt-1.11.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/pbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie-0.9.9.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/context.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/downloads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/formatters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/formatters/colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/formatters/headers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/formatters/json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/output/streams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/plugins/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/plugins/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/plugins/builtin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/plugins/manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/httpie/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/algorithms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/api_jws.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/api_jwt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/contrib/algorithms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/contrib/algorithms/py_ecdsa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/contrib/algorithms/pycrypto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/jwt/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pip-18.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pip-18.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser-2.18-py3.6.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser-2.18-py3.6.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser-2.18-py3.6.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser-2.18-py3.6.egg-info/installed-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser-2.18-py3.6.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/_ast_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/_ast_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/_build_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/_build_tables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/_c_ast.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/_c_ast.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/ast_transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/ast_transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_ast.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_ast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_lexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/c_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/ply/cpp.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/ply/cpp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/ply/yacc.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/ply/yacc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/plyparser.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/plyparser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/yacctab.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/pycparser/yacctab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/authentication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/locale/en_US/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework_jwt/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/setuptools-28.8.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/setuptools-28.8.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/serializers/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/serializers/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,39 +267,43 @@
     <session id="954580727">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="JPG" value="1" />
           <entry key="html" value="6" />
-          <entry key="jpg" value="5" />
-          <entry key="py" value="27" />
+          <entry key="jpg" value="7" />
+          <entry key="py" value="49" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="6" />
-          <entry key="Image" value="5" />
-          <entry key="Python" value="27" />
+          <entry key="Image" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="422" />
-          <entry key="py" value="4541" />
-          <entry key="py@MyBlog" value="138" />
+          <entry key="py" value="5631" />
+          <entry key="py@MyBlog" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CommandLine" value="66" />
+          <entry key="CommandLine" value="80" />
           <entry key="HTML" value="422" />
           <entry key="PLAIN_TEXT" value="72" />
-          <entry key="Python" value="4541" />
+          <entry key="Python" value="5631" />
         </counts>
       </usages-collector>
     </session>
@@ -57,8 +313,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyBlog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="115">
+              <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
               <folding>
                 <element signature="e#630#662#0" expanded="true" />
               </folding>
@@ -67,40 +323,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-712">
-              <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="235">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="131" column="39" lean-forward="true" selection-start-line="131" selection-start-column="39" selection-end-line="131" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <marker date="1537365108286" expanded="true" signature="1468:1473" ph="..." />
-                <marker date="1537365108286" expanded="true" signature="1715:1722" ph="..." />
-                <marker date="1537365108286" expanded="true" signature="2287:3015" ph="..." />
-                <marker date="1537365108286" expanded="true" signature="3082:3089" ph="..." />
-                <marker date="1537365108286" expanded="true" signature="3082:3269" ph="..." />
-                <marker date="1537365108286" expanded="true" signature="4535:4540" ph="..." />
-                <marker date="1537365108286" expanded="true" signature="4682:4687" ph="..." />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,8 +337,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/serializers/serializer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#23#61#0" expanded="true" />
               </folding>
@@ -119,13 +347,77 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="145" column="37" lean-forward="true" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+                <marker date="1538183095116" expanded="true" signature="1494:1501" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="1749:1756" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="2321:3049" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="3116:3123" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="3116:3303" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="4569:4574" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="4808:4813" ph="..." />
+                <marker date="1538183095116" expanded="true" signature="4936:4941" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework/generics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="286" column="23" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework/mixins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-293">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="355">
+              <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
               <folding>
-                <marker date="1537271683247" expanded="true" signature="87:410" ph="..." />
+                <element signature="e#0#31#0" expanded="true" />
+                <marker date="1538183175414" expanded="true" signature="326:648" ph="..." />
+                <marker date="1538183175414" expanded="true" signature="648:655" ph="..." />
+                <marker date="1538183175414" expanded="true" signature="769:774" ph="..." />
+                <marker date="1538183175414" expanded="true" signature="992:993" ph="..." />
+                <marker date="1538183175414" expanded="true" signature="992:998" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyBlog/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3168">
+              <caret line="132" column="53" selection-start-line="132" selection-start-column="53" selection-end-line="132" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -140,6 +432,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -149,13 +444,14 @@
         <option value="$PROJECT_DIR$/templates/html/login.html" />
         <option value="$PROJECT_DIR$/templates/html/register.html" />
         <option value="$PROJECT_DIR$/app/utils.py" />
-        <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/app/serializers/serializer.py" />
         <option value="$PROJECT_DIR$/MyBlog/urls.py" />
-        <option value="$PROJECT_DIR$/app/admin.py" />
         <option value="$PROJECT_DIR$/MyBlog/settings.py" />
+        <option value="$PROJECT_DIR$/app/admin.py" />
         <option value="$PROJECT_DIR$/app/views.py" />
         <option value="$PROJECT_DIR$/app/urls.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
       </list>
     </option>
   </component>
@@ -165,10 +461,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/mdeditor/static/js/lib/codemirror/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -189,12 +491,24 @@
             <path>
               <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="serializers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
               <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="uploadfiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,15 +599,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18097281" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="manage.py@MyBlog" order="2" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3197026" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info active="true" anchor="bottom" id="manage.py@MyBlog" order="2" sideWeight="0.49928468" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3197026" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5007153" side_tool="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Python Console" order="5" weight="0.32961586" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
@@ -318,13 +631,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyBlog/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -339,27 +645,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/django/urls/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-769">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/django/urls/conf.py" />
     <entry file="file://$PROJECT_DIR$/templates/html/mine.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-          <folding>
-            <marker date="1536660252494" expanded="true" signature="42:47" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -370,126 +660,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/rest_framework/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17885">
-          <caret line="853" column="17" lean-forward="true" selection-start-line="853" selection-start-column="17" selection-end-line="853" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/rest_framework/serializers.py" />
     <entry file="file://$PROJECT_DIR$/static/uploadfiles/301536909290_.pic.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/uploadfiles/301536909290_.pic_lt3lyKR.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/uploadfiles/261536909288_.pic.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/uploadfiles/291536909289_.pic.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/uploadfiles/281536909289_.pic.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin.py">
+    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/django/contrib/admin/options.py" />
+    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/rest_framework/mixins.py" />
+    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/rest_framework/generics.py" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-            <marker date="1537324607615" expanded="true" signature="137:142" ph="..." />
-          </folding>
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/django/contrib/admin/options.py">
+    <entry file="file://$PROJECT_DIR$/MyBlog/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="535" lean-forward="true" selection-start-line="535" selection-end-line="535" />
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework/urlpatterns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1804">
+          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/uploadfiles/301536909290_.pic_lt3lyKR.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/uploadfiles/291536909289_.pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/uploadfiles/DJI_0180.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="132" column="53" selection-start-line="132" selection-start-column="53" selection-end-line="132" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/serializers/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#23#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models.py">
+    <entry file="file://$PROJECT_DIR$/MyBlog_Venv/lib/python3.6/site-packages/rest_framework/generics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <marker date="1537271683247" expanded="true" signature="87:410" ph="..." />
-          </folding>
+        <state relative-caret-position="245">
+          <caret line="286" column="23" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/settings.py">
+    <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-712">
-          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="403">
+          <caret line="145" column="37" lean-forward="true" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="37" />
           <folding>
-            <element signature="e#630#662#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1538183095116" expanded="true" signature="1494:1501" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="1749:1756" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="2321:3049" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="3116:3123" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="3116:3303" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="4569:4574" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="4808:4813" ph="..." />
+            <marker date="1538183095116" expanded="true" signature="4936:4941" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="235">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/rest_framework/mixins.py">
+    <entry file="file://$PROJECT_DIR$/MyBlog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyBlog_Venv/lib/python3.6/site-packages/rest_framework/generics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="234" column="20" lean-forward="true" selection-start-line="234" selection-start-column="20" selection-end-line="234" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="131" column="39" lean-forward="true" selection-start-line="131" selection-start-column="39" selection-end-line="131" selection-end-column="39" />
+        <state relative-caret-position="115">
+          <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1537365108286" expanded="true" signature="1468:1473" ph="..." />
-            <marker date="1537365108286" expanded="true" signature="1715:1722" ph="..." />
-            <marker date="1537365108286" expanded="true" signature="2287:3015" ph="..." />
-            <marker date="1537365108286" expanded="true" signature="3082:3089" ph="..." />
-            <marker date="1537365108286" expanded="true" signature="3082:3269" ph="..." />
-            <marker date="1537365108286" expanded="true" signature="4535:4540" ph="..." />
-            <marker date="1537365108286" expanded="true" signature="4682:4687" ph="..." />
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1538183175414" expanded="true" signature="326:648" ph="..." />
+            <marker date="1538183175414" expanded="true" signature="648:655" ph="..." />
+            <marker date="1538183175414" expanded="true" signature="769:774" ph="..." />
+            <marker date="1538183175414" expanded="true" signature="992:993" ph="..." />
+            <marker date="1538183175414" expanded="true" signature="992:998" ph="..." />
           </folding>
         </state>
       </provider>

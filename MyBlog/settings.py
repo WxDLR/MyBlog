@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'app',
     'rest_framework',
+    'mdeditor'
 ]
 
 MIDDLEWARE = [
@@ -128,5 +129,5 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
-
+MEIDA_DIR = "/media/"
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static', 'uploadfiles')
