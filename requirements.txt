@@ -12,7 +12,7 @@ cloudpickle==0.5.6
 constantly==15.1
 cryptography==2.2.2
 cssselect==1.0.3
-Django==1.11.7
+Django==1.11.23
 docutils==0.14
 ExifRead==2.1.2
 GDAL==2.2.4
