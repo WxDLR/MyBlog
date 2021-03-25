@@ -43,7 +43,7 @@ pyparsing==2.2.1
 pyproj==1.9.5.1
 python-dateutil==2.7.3
 pytz==2018.4
-PyYAML==3.13
+PyYAML==5.4
 queuelib==1.5.0
 requests==2.18.4
 Scrapy==1.5.0
