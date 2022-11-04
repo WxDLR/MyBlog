@@ -52,7 +52,7 @@ setuptools==28.8.0
 Shapely==1.6.4.post2
 six==1.11.0
 stevedore==1.29.0
-Twisted==18.4.0
+Twisted==22.10.0
 urllib3==1.22
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
